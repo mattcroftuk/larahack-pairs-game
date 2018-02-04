@@ -14,10 +14,10 @@
                 </h2>
 
                 <div class="mt-12 sm:flex sm:justify-center">
-                    <a class="no-underline mt-8 sm:mt-0 mx-auto sm:mx-2 max-w-xs rounded-full text-center leading-none font-semibold block px-8 py-3 border-2 border-brand-dark bg-brand-dark text-white" href="/register">
+                    <a class="no-underline mt-8 sm:mt-0 mx-auto sm:mx-2 max-w-xs rounded-full text-center leading-none font-semibold block px-8 py-3 border-2 border-brand-dark bg-brand-dark text-white" href="/play">
                         Play
                     </a>
-                    <a class="no-underline mt-8 sm:mt-0 mx-auto sm:mx-2 max-w-xs rounded-full text-center leading-none font-semibold block px-8 py-3 border-2 border-brand-dark text-grey-dark" href="/login">
+                    <a class="no-underline mt-8 sm:mt-0 mx-auto sm:mx-2 max-w-xs rounded-full text-center leading-none font-semibold block px-8 py-3 border-2 border-brand-dark text-grey-dark" href="https://github.com/mattcroftuk/larahack-pairs-game" target="_blank">
                         Github Repository
                     </a>
                 </div>
